@@ -8,4 +8,4 @@
 const int GRID_SIZE = 5;
 
 // Nombre d'essais avant que la marée ne recouvre la plage.
-const int MAX_ATTEMPTS = 8;
+const int MAX_ATTEMPTS = 6;
